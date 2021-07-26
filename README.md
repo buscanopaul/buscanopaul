@@ -6,9 +6,10 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
+
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
 
-![alt text](https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/image-27-1.png)
+![alt text](https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/image-27-1.png
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
