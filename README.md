@@ -8,3 +8,9 @@
 
 - Blog (Rails): [Live](https://blogpaul.herokuapp.com) | [Repo](https://github.com/buscanopaul/blogs)
 - Find Covid Vaccine (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/findvaccineph/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/findvaccineph)
+- Banking Web App (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/bankapp/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/bankapp)
+- Momentum Web App (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/momentumapp/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/momentumapp)
+- Tic Tac Toe (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/tic_tac_toe/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/tic_tac_toe)
+- Q&A Website (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/questionandanswer) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/questionandanswer)
+- Product Page Webiste (HTML/CSS): [Live](https://buscanopaul.github.io/batch8-activities/productpage/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/productpage)
+
