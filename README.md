@@ -13,4 +13,6 @@
 - Tic Tac Toe (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/tic_tac_toe/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/tic_tac_toe)
 - Q&A Website (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/questionandanswer) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/questionandanswer)
 - Product Page Webiste (HTML/CSS): [Live](https://buscanopaul.github.io/batch8-activities/productpage/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/productpage)
+- Chess Board CSS Grid (HTML/CSS): [Live](https://buscanopaul.github.io/batch8-activities/chessgrid/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/chessgrid)
+- Survey Form (HTML/CSS): [Live](https://buscanopaul.github.io/batch8-activities/surveyform/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/surveyform)
 
