@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Credits: [ChungZH](https://github.com/ChungZH) | Credits: [ChungZH](https://github.com/ChungZH)
 
 <table border="0">
  <tr>
