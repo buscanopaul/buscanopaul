@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/image-27-1.png
+
+![alt text](https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/image-27-1.png)
