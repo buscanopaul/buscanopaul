@@ -6,4 +6,5 @@
 
 :memo: Repository list!
 
-- Rails Blog: [https://blogpaul.herokuapp.com] | [https://github.com/buscanopaul/blogs]
+- Rails Blog: [Live](https://blogpaul.herokuapp.com) | [Repo](https://github.com/buscanopaul/blogs)
+- Find Covid Vaccine JS app: [Live](https://buscanopaul.github.io/batch8-activities/findvaccineph/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/findvaccineph)
