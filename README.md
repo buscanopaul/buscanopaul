@@ -1,4 +1,4 @@
-### Hi there 👋 Credits: [ChungZH](https://github.com/ChungZH) | Credits: [ChungZH](https://github.com/ChungZH)
+### Hi there 👋 Portfolio: [Behance](https://www.behance.net/paulbuscano003) | Bitbucket: [bitbucket.org/paulbuscano003](https://bitbucket.org/paulbuscano)
 
 <table border="0">
  <tr>
