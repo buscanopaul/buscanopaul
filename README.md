@@ -6,7 +6,7 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)</td>
+    ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
