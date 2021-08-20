@@ -8,6 +8,7 @@
 
 :memo: Repository list!
 
+- Stock Trading App (Rails): [Live](https://stockppp.herokuapp.com/) | [Repo](https://github.com/buscanopaul/stocktrading)
 - Blog (Rails): [Live](https://blogpaul.herokuapp.com) | [Repo](https://github.com/buscanopaul/blogs)
 - Find Covid Vaccine (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/findvaccineph/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/findvaccineph)
 - Banking Web App (Vanilla JS): [Live](https://buscanopaul.github.io/batch8-activities/bankapp/) | [Repo](https://github.com/buscanopaul/batch8-activities/tree/main/bankapp)
