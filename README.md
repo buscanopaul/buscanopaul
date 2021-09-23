@@ -8,6 +8,7 @@
 
 :memo: Repository list!
 
+- Binance API buy/sell (Python): [Repo](https://github.com/buscanopaul/python-binance-api)
 - Eastwest Bank Repossessed Cars App (Rails): [Live](http://eastwestapp.herokuapp.com) | [Repo](https://github.com/buscanopaul/Eastwest-repossessed-cars)
 - Stock Trading App (Rails): [Live](https://stockppp.herokuapp.com/) | [Repo](https://github.com/buscanopaul/stocktrading)
 - Blog (Rails): [Live](https://blogpaul.herokuapp.com) | [Repo](https://github.com/buscanopaul/blogs)
