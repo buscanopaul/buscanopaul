@@ -1,4 +1,4 @@
-### Hi there :philippines: Portfolio: [Website](https://paulbuscano.vercel.app/)
+### [https://paulbuscano.vercel.app](https://paulbuscano.vercel.app/)
 
 ![alt text](https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/image-27-1.png)
 
